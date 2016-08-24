@@ -1,0 +1,11 @@
+{
+  "name": "joseluisq/php-ga-tracking-redirect",
+  "description": "Simple PHP Google Analytic Tracking with custom 301 redirection.",
+  "keywords": ["analytic", "ga", "tracking"],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": ">=5.5",
+    "theiconic/php-ga-measurement-protocol": "^2.3"
+  }
+}
